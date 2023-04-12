@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jbscript" alt="jbscript  " /> </p>
 <a target="_blank" align="center">
-  <img align="right"  height="300" width="400" alt="GIF"  src="https://github.com/arjunKumbakkara/arjunkumbakkara/blob/main/assets/UltimateCoding1.gif" width="40%">
+  <img align="right"  height="300" width="400" alt="GIF"  src="https://github.com/jbscript/jbscript/blob/main/img/UltimateCoding1.gif" width="40%">
 </a>
 
 - 🔭 I’m currently working at [Maxstack Labs](https://maxstacklabs.com/), India
