@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Jabir Jaleel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
 </a>
 
-<h3 align="center">React Developer | Chrome Extension Developer | DevOps Enthusiast | AI Learner</h3>
+<h3 align="center">React Developer | Chrome Extension Developer | DevOps Learner | AI Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jbscript" alt="jbscript  " /> </p>
 <a target="_blank" align="center">
