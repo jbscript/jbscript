@@ -11,14 +11,13 @@
 </a>
 
 - 🔭 I’m currently working at [Maxstack Labs](https://maxstacklabs.com/), India
-
 - 🌱 I’m currently learning Devops
-
 - 💬 Ask me about React, Chrome Extensions, DevOps and AI
-
 - 📫 How to reach me: jabirjaleel97@gmail.com
-
 - 💡 Interested in building something together? Shoot me a message.
+- 📚 I'm constantly learning new skills and _striving for progress_
+- 🏆 Goal: Be the person I needed when I was younger
+- ⚡ Motto: Keep striving for progress, not perfection
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
