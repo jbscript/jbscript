@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi, I'm Jabir Jaleel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
+[![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=Hi,I'm%20Jabir%20Jaleel&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 
 <h3 align="center">React Developer | Chrome Extension Developer | DevOps Learner | AI Enthusiast</h3>
 
