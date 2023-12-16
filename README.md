@@ -20,6 +20,6 @@
 
 
 ##### WORKING ON
-- [🌐 Assure QA](https://sonuum.com), a web-based intelligent test automation platform.
+- [🌐 Assure QA](https://qabox.assureqa.io/), a web-based intelligent test automation platform.
 #
 If you'd like to discuss any sort of opportunity, feel free to [contact me](mailto:jabirjaleel97@gmail.com).
