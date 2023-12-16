@@ -2,12 +2,8 @@
 
 [![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=Hi,I'm%20Jabir%20Jaleel&width=600&height=200)](https://github.com/Akshay090/svg-banners)
 
-<h3 align="center">React Developer | Chrome Extension Developer | DevOps Learner | AI Enthusiast</h3>
+<h3 align="left">React Developer | Chrome Extension Developer | DevOps Learner | AI Enthusiast</h3>
 
-
-<a target="_blank" align="center">
-  <img align="right"  height="300" width="400" alt="GIF"  src="https://github.com/jbscript/jbscript/blob/main/img/UltimateCoding1.gif" width="40%">
-</a>
 
 - 🔭 I’m currently working at [Maxstack Labs](https://maxstacklabs.com/), India
 - 🌱 I’m currently learning Devops
