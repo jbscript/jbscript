@@ -1,7 +1,4 @@
 
-
-[![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=Hi,I'm%20Jabir%20Jaleel&width=600&height=200)](https://github.com/Akshay090/svg-banners)
-
 <h3 align="left">React Developer | Chrome Extension Developer | DevOps Learner | AI Enthusiast</h3>
 
 
