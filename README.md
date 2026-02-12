@@ -13,7 +13,8 @@
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 
 ## Current Projects
-- ♾️ **[AssureQA](https://assureqa.io/)** - the AI-Powered prompt based automation platform for QA
+- ♾️ **[AssureQA](https://assureqa.io)** - the AI-Powered prompt based automation platform for QA
+- 📦 **[LaunchSaaS](https://github.com/jbscript/LaunchSaaS)** - A powerful SaaS boilerplate to kickstart your next project effortlessly.
 
 ## Connect
 [![LinkedIn](https://img.shields.io/badge/-Jabir_Jaleel-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jbscript)
