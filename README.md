@@ -1,6 +1,6 @@
 # Hi, I'm Jabir 👋
 
-📍 **India** | **Full-Stack Developer**
+📍 **India** | **Full-Stack Javascript Developer**
 > 🤖 Building web apps… and convincing AI agents to cooperate.
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
